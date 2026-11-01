@@ -32,3 +32,4 @@ function celebrate() {
         setTimeout(() => confetti.remove(), duration * 1000);
     }
 }
+
